@@ -43,12 +43,13 @@ Navigating the hurdles of data accessibility and ensuring the consistency and in
 ```{r}
 # R code for generating interactive maps using leaflet.
 
-Conclusion
+```
+
+### Conclusion
 Our analysis offers a panoramic view of pet care across the United States, uncovering patterns that could pave the way for enhanced welfare and management strategies. As we continue to delve deeper, our goal remains steadfast: to foster a landscape where pets are cared for with the utmost diligence and understanding.
 
-References
+### References
 Detailed citations and references to the data sources and literature that underpin our analysis.
-
 
 This R Markdown draft is structured to cater to both general and specialized audiences, encapsulating the essence of your project while highlighting your methodologies, findings, and the implications of your work. Adjust the code snippets and content as necessary to align with your actual analysis and results.
 
